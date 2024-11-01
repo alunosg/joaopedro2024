@@ -1,0 +1,10 @@
+﻿João Pedro/.vs
+João Pedro/Temp
+João Pedro/UserSettings
+*.csproj
+*.sln
+*.vsconfig
+João Pedro/.vscode
+João Pedro/Library
+João Pedro/Logs
+João Pedro/obj
