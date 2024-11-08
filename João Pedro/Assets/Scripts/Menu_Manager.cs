@@ -15,7 +15,6 @@ public class Menu_Manager : MonoBehaviour
     public void Jogar()
     {
         SceneManager.LoadScene(NomeLevel);
-        SceneManager.LoadScene(1);
 
     }
     public void AbrirOpcoes()
